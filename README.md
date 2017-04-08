@@ -1,7 +1,7 @@
 Exceptional Realty Group Website
 ---
 
-#Description
+# Description
 
 This is an example site for the intro to front end web development course at tTHe Flatiron School.
 
